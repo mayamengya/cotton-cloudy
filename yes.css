@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+body {
+  background-color: #ffb0bb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+h1,
+p {
+  color: #fff;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #c2aecd;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.button:hover {
+  background-color: #796b81;
+}
