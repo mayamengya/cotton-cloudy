@@ -12,4 +12,4 @@ All the cloud images used in this project are courtesy of Adorableninana on Flat
 
 ## Future Plans
 
-I aim to continue practicing key concepts of HTML, CSS, and other web technologies, with a specific focus on accessibility. This project will serve as a base for ongoing practice and experimentation.
+I aim to continue practicing key concepts of HTML/CSS, and other web technologies, with a specific focus on accessibility. This project will serve as a base for ongoing practice and experimentation.
