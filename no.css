@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+body {
+  background-color: #ffb0bb;
+  padding: 10%;
+  min-height: 100vh;
+}
+
+img {
+  height: 315px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 5rem;
+}
+
+p {
+  color: #fff;
+}
+
+.cloud-image {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #c2aecd;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.button:hover {
+  background-color: #796b81;
+}
