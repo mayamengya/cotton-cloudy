@@ -8,7 +8,7 @@ To experience the magic of this Valentine's Day tale, simply click the link belo
 
 ## Image Credits
 
-All the cloud images used in this project are courtesy of Adorableninana on FlatIcon.com. Check out their fantastic work [here](https://www.flaticon.com/authors/adorableninana).
+All the cloud images used in this project are courtesy of Adorableninana on FlatIcon.com. Check out their work [here](https://www.flaticon.com/authors/adorableninana).
 
 ## Future Plans
 
